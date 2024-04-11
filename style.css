@@ -76,7 +76,6 @@ aside {
     margin-top: 30px;
 }
 .center {
-<<<<<<< HEAD
     width: 70vw; /* 100% of viewport width */
     display: block; /* Ensure the image is displayed as a block element */
     margin: 0 auto; /* Center the image horizontally */
@@ -86,14 +85,11 @@ aside {
     display: block; /* Ensure the image is displayed as a block element */
     margin: 0 auto; /* Center the image horizontally */
 }
-=======
-    display: block;
-    margin-left: 400px;
-    margin-right: 100px;
-    width: 25%;
-  }
->>>>>>> refs/remotes/origin/main
-
+.banner {
+    width: 100%; /* 100% of viewport width */
+    display: block; /* Ensure the image is displayed as a block element */
+    margin: auto; /* Center the image horizontally */
+}
 /* Link Styles */
 a:hover {
     color: #333;
